@@ -18,6 +18,8 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - [ ] Console
 	- [ ] Generate command line program with cobra
 
+- [ ] API
+	- [ ] API call of etcd v3
 
 [1]:https://github.com/zyfdegh/call-web-broswer
 [2]:https://github.com/zyfdegh/mdviewer
