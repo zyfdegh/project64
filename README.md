@@ -7,7 +7,7 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - 2016-07-16 [**njweather**][3]: Call weather.com.cn API and get Nanjing real-time weather, print to screen at last.
 - 2016-07-16 [**unqlite-crud**][4]: Golang example to show how to use binder to insert, query, update, delete data(Key and Value) on UnQLite.
 - 2016-07-16 [**dockerfile-unqlite**][5]: Dockerfile and essential library and header file for unqlite.
-- 2016-07-16 [**random-gen**]: An interesting demo showing how to generate random numbers and do a statistic analysis.
+- 2016-07-13 [**random-gen**][6]: An interesting demo showing how to generate random numbers and do a statistic analysis. 
 
 # TODOs
 
@@ -30,21 +30,23 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 	- [X]  [UnQLite CRUD operation][4]
 	
 - [ ] Dockerfile
-	- [ ]  [UnQLite][5]
-	
-- [ ] Utils
-	- [ ] 
+	- [X]  [UnQLite][5]
 
 - [ ] Graphical
 	- Image processing
 	- Chaptcha
 	- Chart
-	
+
+- [ ] Goroutine & channel
+	- [ ] Multi-thread downloader
+
 - [ ] Others
-	- [ ] Random number generate
+	- [X]  [Random number generator][3]
+
 
 [1]:https://github.com/zyfdegh/call-web-broswer
 [2]:https://github.com/zyfdegh/mdviewer
 [3]:https://github.com/zyfdegh/njweather
 [4]:https://github.com/zyfdegh/unqlite-crud
 [5]:https://github.com/zyfdegh/dockerfile-unqlite
+[6]:https://github.com/zyfdegh/random-gen
