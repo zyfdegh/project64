@@ -1,4 +1,6 @@
 # project64
+![Golang peep](https://raw.githubusercontent.com/zyfdegh/project64/master/raw/golang-peep.png)
+
 Golang programming challenge: 64 Go projects in 64 weeks.
 
 # Descriptions
@@ -7,7 +9,7 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - 2016-07-16 [**njweather**][3]: Call weather.com.cn API and get Nanjing real-time weather, print to screen at last.
 - 2016-07-16 [**unqlite-crud**][4]: Golang example to show how to use binder to insert, query, update, delete data(Key and Value) on UnQLite.
 - 2016-07-16 [**dockerfile-unqlite**][5]: Dockerfile and essential library and header file for unqlite.
-- 2016-07-13 [**random-gen**][6]: An interesting demo showing how to generate random numbers and do a statistic analysis. 
+- 2016-07-16 [**random-gen**][6]: An interesting demo showing how to generate random numbers and do a statistic analysis. 
 
 # TODOs
 
