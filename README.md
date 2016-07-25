@@ -10,6 +10,8 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - 2016-07-16 [**unqlite-crud**][4]: Golang example to show how to use binder to insert, query, update, delete data(Key and Value) on UnQLite.
 - 2016-07-16 [**dockerfile-unqlite**][5]: Dockerfile and essential library and header file for unqlite.
 - 2016-07-16 [**random-gen**][6]: An interesting demo showing how to generate random numbers and do a statistic analysis. 
+- 2016-07-23 [**local-docker-exec**][7]: Connect to local docker daemon or swarm and run command 'sh' in container.
+- 2016-07-23 [**dockerfile-webconsole**][8]: Dockerfile for web console based alpine, it can shell into docker container, powered by gotty.
 
 # TODOs
 
@@ -27,12 +29,15 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - [ ] API
 	- [X]  [Get Nanjing weather][3]
 	- [ ] etcd v3 API
+	- [ ] Docker daemon
+		- [X]  [docker exec][7]
 	
 - [ ] Database
 	- [X]  [UnQLite CRUD operation][4]
 	
 - [ ] Dockerfile
 	- [X]  [UnQLite][5]
+	- [X]  [webconsole][8]
 
 - [ ] Graphical
 	- Image processing
@@ -52,3 +57,5 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 [4]:https://github.com/zyfdegh/unqlite-crud
 [5]:https://github.com/zyfdegh/dockerfile-unqlite
 [6]:https://github.com/zyfdegh/random-gen
+[7]:https://github.com/zyfdegh/local-docker-exec
+[8]:https://github.com/zyfdegh/dockerfile-webconsole
