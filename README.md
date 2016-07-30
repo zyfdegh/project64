@@ -12,6 +12,9 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - 2016-07-16 [**random-gen**][6]: An interesting demo showing how to generate random numbers and do a statistic analysis. 
 - 2016-07-23 [**local-docker-exec**][7]: Connect to local docker daemon or swarm and run command 'sh' in container.
 - 2016-07-23 [**dockerfile-webconsole**][8]: Dockerfile for web console based alpine, it can shell into docker container, powered by gotty.
+- 2016-07-30 [**zhy-batch-rename**][9]: Loop to rename directories.
+- 2016-07-30 [**remote-docker-exec**][10]: Access docker daemon API, create and run command `sh`. Act like a remote docker exec.
+
 
 # TODOs
 
@@ -30,7 +33,8 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 	- [X]  [Get Nanjing weather][3]
 	- [ ] etcd v3 API
 	- [ ] Docker daemon
-		- [X]  [docker exec][7]
+		- [X]  [local docker exec][7]
+		- [X]  [local docker exec][10]
 	
 - [ ] Database
 	- [X]  [UnQLite CRUD operation][4]
@@ -47,6 +51,9 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - [ ] Goroutine & channel
 	- [ ] Multi-thread downloader
 
+- [ ] File system
+	- [X]  [Rename directories][9]
+
 - [ ] Others
 	- [X]  [Random number generator][3]
 
@@ -59,3 +66,5 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 [6]:https://github.com/zyfdegh/random-gen
 [7]:https://github.com/zyfdegh/local-docker-exec
 [8]:https://github.com/zyfdegh/dockerfile-webconsole
+[9]:https://github.com/zyfdegh/zhy-batch-rename
+[10]:https://github.com/zyfdegh/remote-docker-exec
