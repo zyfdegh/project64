@@ -14,7 +14,7 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - 2016-07-23 [**dockerfile-webconsole**][8]: Dockerfile for web console based alpine, it can shell into docker container, powered by gotty.
 - 2016-07-30 [**zhy-batch-rename**][9]: Loop to rename directories.
 - 2016-07-30 [**remote-docker-exec**][10]: Access docker daemon API, create and run command `sh`. Act like a remote docker exec.
-
+- 2016-08-14 [**boomer**][11]: Boomer set a count down timer and trigger a function when timeout.
 
 # TODOs
 
@@ -56,6 +56,7 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 
 - [ ] Others
 	- [X]  [Random number generator][3]
+	- [X]  [Timer and function trigger][11]
 
 
 [1]:https://github.com/zyfdegh/call-web-broswer
@@ -68,3 +69,4 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 [8]:https://github.com/zyfdegh/dockerfile-webconsole
 [9]:https://github.com/zyfdegh/zhy-batch-rename
 [10]:https://github.com/zyfdegh/remote-docker-exec
+[11]:https://github.com/zyfdegh/boomer
