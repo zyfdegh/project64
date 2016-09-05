@@ -15,12 +15,14 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 - 2016-07-30 [**zhy-batch-rename**][9]: Loop to rename directories.
 - 2016-07-30 [**remote-docker-exec**][10]: Access docker daemon API, create and run command `sh`. Act like a remote docker exec.
 - 2016-08-14 [**boomer**][11]: Boomer set a count down timer and trigger a function when timeout.
+- 2016-08-28 [**hiupdate**][12]: A simple web app in golang, used locally to record daily startup meeting. UnQLite underside.
 
 # TODOs
 
 - [ ] Web
 	- [X]  [Markdown web previewer][2]
 	- [X]  [Call web broswer][1]
+	- [x]  [Record startup meeting][12]
 
 - [ ] Alg
 	- [ ] Algolrithm Paxos
@@ -70,3 +72,4 @@ Golang programming challenge: 64 Go projects in 64 weeks.
 [9]:https://github.com/zyfdegh/zhy-batch-rename
 [10]:https://github.com/zyfdegh/remote-docker-exec
 [11]:https://github.com/zyfdegh/boomer
+[12]:https://github.com/zyfdegh/hiupdate
